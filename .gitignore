@@ -1,0 +1,10 @@
+.gradle/
+build/
+out/
+*.class
+*.log
+
+# random editor bullshit, nobody wants this in the repo
+.idea/
+*.iml
+.vscode/

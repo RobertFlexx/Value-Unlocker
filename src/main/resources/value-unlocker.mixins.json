@@ -1,0 +1,40 @@
+{
+  "required": true,
+  "package": "com.valueunlocker.mixin",
+  "mixins": [
+    "ChunkPosMixin",
+    "CodecMixin",
+    "DoubleArgumentTypeMixin",
+    "EnchantCommandMixin",
+    "EffectCommandsMixin",
+    "EntityMixin",
+    "ExtraCodecsMixin",
+    "FloatArgumentTypeMixin",
+    "GameRuleCommandMixin",
+    "GameRuleMixin",
+    "GameRulesMixin",
+    "IntegerArgumentTypeMixin",
+    "ItemCommandsMixin",
+    "ItemEnchantmentsMixin",
+    "ItemEnchantmentsMutableMixin",
+    "ItemStackMixin",
+    "LevelMixin",
+    "LivingEntityMixin",
+    "MinecraftMixin",
+    "MinecartSpeedMixin",
+    "MobEffectInstanceMixin",
+    "PlayerListMixin",
+    "PlayerMixin",
+    "RandomTickSpeedMixin",
+    "RangedAttributeMixin",
+    "TickCommandMixin",
+    "TickRateManagerMixin",
+    "WorldBorderCommandMixin",
+    "WorldBorderMixin",
+    "WorldBorderMovingExtentMixin",
+    "WorldBorderStaticExtentMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

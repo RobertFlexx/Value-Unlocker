@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "value-unlocker",
+  "version": "${version}",
+  "name": "Value Unlocker",
+  "description": "Removes vanilla numeric caps on gamerules, commands, and attributes so players have real freedom. Dont burn the world down.",
+  "authors": ["RobertFlexx"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.valueunlocker.ValueUnlocker"
+    ]
+  },
+  "mixins": [
+    "value-unlocker.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.17.2",
+    "minecraft": "26.2"
+  }
+}
