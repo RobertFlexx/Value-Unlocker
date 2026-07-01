@@ -106,3 +106,7 @@ yes this is ugly. it works for now.
 ## release note
 
 do not upload the `build/` folder or `.gradle/` folder. just build the jar and upload the jar from `build/libs/`.
+
+# extras
+
+go **[here](https://github.com/RobertFlexx/unlimited-minecart-speed)** for only making minecart speed "unlimited".
