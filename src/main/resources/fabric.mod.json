@@ -3,7 +3,7 @@
   "id": "value-unlocker",
   "version": "${version}",
   "name": "Value Unlocker",
-  "description": "Removes vanilla numeric caps on gamerules, commands, and attributes so players have real freedom. Dont burn the world down.",
+  "description": "Removes vanilla numeric caps on gamerules, commands, and attributes so players have real freedom. Dont burn the world down. Report, make PRs at: https://github.com/RobertFlexx/Value-Unlocker ",
   "authors": ["RobertFlexx"],
   "license": "MIT",
   "environment": "*",
