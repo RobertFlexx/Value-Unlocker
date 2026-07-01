@@ -90,7 +90,7 @@ gradle clean build --no-daemon
 the jar ends up here:
 
 ```text
-build/libs/value-unlocker-0.1.0.jar
+build/libs/value-unlocker-1.0.0.jar
 ```
 
 the class files should say `major version: 69`. if they say `70`, prism/java 25 will not load it.
